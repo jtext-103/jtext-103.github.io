@@ -19,4 +19,5 @@ social: false  # includes social icons at the bottom of the page
 
 J-TEXT 103 (J-TEXT Contrl and AI Team) belongs to the International Joint Research Laboratory of Magnetic Confinement Fusion and Plasma Physics (IFPP), School of Electrical and Electronic Engineering, Huazhong University of Science and Technology.
 
-The main research interests of J-TEXT 103 is 
+The main research interests of J-TEXT 103 is control system and AI application in Tokamak and other fusion experiment.
+

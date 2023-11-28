@@ -6,7 +6,7 @@ subtitle: School of Electrical and Electronic Engineering, Huazhong University o
 
 profile:
   align: right
-  image: team_2023_11_24.png
+  image: team_2023_11_24.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Team photo @ 2023/11/24</p>
